@@ -21,4 +21,4 @@ After running the script, you can experiment with the code or report issues / id
 - Code Editor (maybe)
 - Python - Discord Library
 
-
+Will be creating a YT video using these scripts.
