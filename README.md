@@ -1,6 +1,7 @@
 # ANYTHINGLLM-TO-DISCORD-BOT
 ### Explanation:
-This project uses mainly python to create a connect a local AI application (AnythingLLM) to Discord. 
+This project uses mainly python to create a connect a local AI application (AnythingLLM) to Discord.
+Official Video: [Can an AI discord bot replace someone’s online identity in Discord?](https://youtu.be/R4jhLV136LI)
 - **Up-To-Date:** Uses AnythingLLM version v1.18.0 and Python 3.8.
 
 ## Quick Start
@@ -21,4 +22,3 @@ After running the script, you can experiment with the code or report issues / id
 - Code Editor (maybe)
 - Python - Discord Library
 
-Will be creating a YT video using these scripts.
