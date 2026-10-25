@@ -1,7 +1,7 @@
 # ANYTHINGLLM-TO-DISCORD-BOT
 ### Explanation:
 This project uses mainly python to create a connect a local AI application (AnythingLLM) to Discord. 
-- **Up-To-Date:** Uses AnythingLLM version v1.18.0 and Python 3.15.
+- **Up-To-Date:** Uses AnythingLLM version v1.18.0 and Python 3.8.
 
 ## Quick Start
 1. **Unpack the Files**
